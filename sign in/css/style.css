@@ -1,0 +1,48 @@
+body{
+   
+    scroll-behavior: smooth;
+    background: #24353f;
+    color: #fff;
+}
+
+.container{
+    width: 55%;
+}
+.form-control{
+    width: 84%;
+    margin: auto;
+ 
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+.group {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+input{
+    background-color: transparent !important;
+    color: #fff !important;
+
+}
+button{
+    margin: auto;
+    width: 84%;
+}
+h1{
+    box-sizing: border-box;
+color: rgb(23, 162, 184);
+
+font-family: "Titillium Web", sans-serif;
+font-size :40px;
+font-weight: 500;
+
+line-height :48px
+}
+a{
+    text-decoration: none;
+}
+.alert{
+margin: auto;
+width: 84%;
+}
